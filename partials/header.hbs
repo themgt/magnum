@@ -5,10 +5,10 @@
 {{/if}}
     
     {{#if @blog.logo}}
-      <a class="logo_magnum" href="http://www.pogoapp.com"><img src="{{@blog.logo}}" alt="{{@blog.title}}" /></a>
+      <a class="logo_magnum" href="{{@blog.url}}"><img src="{{@blog.logo}}" alt="{{@blog.title}}" /></a>
     {{ else }}
       <h1 class="blogtitle_magnum">
-        <a title="{{@blog.title}}" href='http://www.pogoapp.com'>
+        <a title="{{@blog.title}}" href='{{@blog.url}}'>
         {{{@blog.title}}}
         </a>
       </h1>
