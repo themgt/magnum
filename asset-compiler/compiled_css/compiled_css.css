@@ -134,7 +134,7 @@ a {
 }
 a:link,
 a:visited {
-  color: #42d386;
+  color: #49bf67;
 }
 a:focus {
   outline: thin dotted;
@@ -194,7 +194,7 @@ ul {
   color: #d2d2d2;
 }
 h1.posttitle_magnum {
-  background-color: #42d386;
+  background-color: #49bf67;
   color: white;
 }
 h1.posttitle_magnum  a,
@@ -216,14 +216,14 @@ h1.posttitle_magnum a:focus {
 .article_magnum  a,
 .article_magnum a:link,
 .article_magnum a:visited {
-  color: #42d386;
+  color: #49bf67;
 }
 .article_magnum a:hover,
 .article_magnum a:focus {
   color: #333333;
 }
 h1.blogtitle_magnum a {
-  background-color: #42d386;
+  background-color: #49bf67;
   color: white;
   padding: 0.26966666666666667em;
 }
@@ -242,17 +242,17 @@ h4.blogdescription_magnum a {
 h1.posttitle_magnum {
   margin-top: 0;
   background-color: transparent;
-  border-bottom: 0.04045em solid #42d386;
-  color: #42d386;
+  border-bottom: 0.04045em solid #49bf67;
+  color: #49bf67;
   font-weight: 300;
 }
 h1.posttitle_magnum a,
 h1.posttitle_magnum a:link,
 h1.posttitle_magnum a:visited {
-  color: #42d386;
+  color: #49bf67;
 }
 blockquote {
-  border-left: 4px solid #42d386;
+  border-left: 4px solid #49bf67;
   margin: 1em 0;
   padding: 0.2em 1em;
 }
@@ -292,7 +292,7 @@ input[type="text"] {
   width: 100%;
 }
 .header_magnum {
-  border-top: 0.5778571428571428em solid #42d386;
+  border-top: 0.5778571428571428em solid #49bf67;
   text-align: center;
   padding: 2.6966666666666668em;
   margin-bottom: 2.0225em;
@@ -324,7 +324,7 @@ input[type="text"] {
 .article_magnum  a,
 .article_magnum a:link,
 .article_magnum a:visited {
-  color: #42d386;
+  color: #49bf67;
 }
 .article_magnum a:hover,
 .article_magnum a:focus {
@@ -344,7 +344,7 @@ a.btn {
   outline: 0;
   cursor: pointer;
   font-size: 0.77rem;
-  background: #42d386;
+  background: #49bf67;
   color: #ffffff;
   margin-left: 1px;
 }
@@ -388,7 +388,7 @@ a.btn.icon-gplus {
 .pagination_magnum  a,
 .pagination_magnum a:link,
 .pagination_magnum a:visited {
-  color: #42d386;
+  color: #49bf67;
 }
 .pagination_magnum a:hover,
 .pagination_magnum a:focus {
@@ -397,7 +397,7 @@ a.btn.icon-gplus {
 .pagination_magnum  a,
 .pagination_magnum a:link,
 .pagination_magnum a:visited {
-  color: #42d386;
+  color: #49bf67;
 }
 .pagination_magnum a:hover,
 .pagination_magnum a:focus {
@@ -418,7 +418,7 @@ a.btn.icon-gplus {
 }
 .footer_magnum {
   background-color: white;
-  border-top: 0.5778571428571428em solid #42d386;
+  border-top: 0.5778571428571428em solid #49bf67;
   text-align: center;
   padding: 2.6966666666666668em;
   margin-bottom: 2.0225em;
@@ -426,7 +426,7 @@ a.btn.icon-gplus {
   background-position: center center;
   margin-bottom: 0px;
   border-top: 0px solid transparent;
-  border-bottom: 0.5778571428571428em solid #42d386;
+  border-bottom: 0.5778571428571428em solid #49bf67;
 }
 .footer_magnum h1 {
   margin: 0;
